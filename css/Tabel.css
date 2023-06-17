@@ -1,0 +1,44 @@
+.Luigi
+{
+    width: 800px;
+}
+.Pepe
+{
+    height: 110px;
+    width: 120px;
+}
+.Remy
+{
+    font-weight: bolder;
+}
+.Pizza3
+{
+    width: 800px;
+    border-collapse: collapse;
+}
+tr,td
+{
+    padding: 2px;
+}
+tr
+{
+    border-bottom: lightgrey solid 1px;
+}
+.kop
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+.Pizza2
+{
+    width: 800px;
+    border-collapse: collapse;
+}
+.PSP
+{
+    color: red;
+}
+.Persona
+{
+    background-color: wheat;
+}

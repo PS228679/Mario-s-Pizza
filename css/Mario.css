@@ -1,0 +1,29 @@
+*
+{
+    font-family: Arial, Helvetica;
+    color: #444;
+    max-width: 800px;
+    margin: auto;
+}
+.Pizza
+{
+    font-size: xx-large;
+    font-style: italic;
+
+}
+.voorwaarden
+{
+    float: right;
+}
+.Pasta
+{
+    font-weight: bold;
+}
+.lever
+{
+    float: right;
+}
+.lever2
+{
+    float: left;
+}
